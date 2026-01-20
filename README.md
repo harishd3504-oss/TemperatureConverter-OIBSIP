@@ -1,7 +1,7 @@
-# 🌡️ Temperature Converter (OIBSIP)
+# 🌡️ Temperature Converter
 
-A simple **temperature converter web application** built using **HTML**.  
-This project allows users to convert temperature values between **Celsius, Fahrenheit, and Kelvin**.
+A simple **Temperature Converter web application** built using **HTML**.  
+This project allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvin** easily.
 
 🔗 **Live Demo:** https://temp-converter-ten-silk.vercel.app/
 
@@ -10,8 +10,8 @@ This project allows users to convert temperature values between **Celsius, Fahre
 ## 🚀 Features
 
 - 🔁 Convert between Celsius, Fahrenheit, and Kelvin  
-- 🧮 Instant calculation  
-- 🎨 Simple and clean UI  
+- ⚡ Instant conversion  
+- 🎨 Simple and clean user interface  
 - 🌐 Web-based application  
 - 🎓 Beginner-friendly project  
 
@@ -26,11 +26,9 @@ This project allows users to convert temperature values between **Celsius, Fahre
 
 ## 📂 Project Structure
 
-
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/harishd3504-oss/TemperatureConverter-OIBSIP.git
+```text
+TemperatureConverter/
+│
+├── index.html        # Main HTML file
+└── README.md         # Project documentation
+git clone https://github.com/harishd3504-oss/TemperatureConverter-OIBSIP.git
